@@ -1,5 +1,5 @@
 # Solicita ao usuário que insira um número
-numero = float(input("Digite um número: 60"))
+numero = int(input("Digite um número: 60"))
 
 # Verifica se o número é positivo, negativo ou zero
 if numero > 0: # Se o número for maior que zero
